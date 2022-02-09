@@ -1,3 +1,33 @@
 [submodule "meta-dataset"]
 	path = meta-dataset
 	url = https://github.com/google-research/meta-dataset.git
+[submodule "imagenet"]
+	path = imagenet
+	url = ../imagenet
+[submodule "omniglot"]
+	path = omniglot
+	url = ../omniglot
+[submodule "fgvcaircraft"]
+	path = fgvcaircraft
+	url = ../fgvcaircraft
+[submodule "cub200"]
+	path = cub200
+	url = ../cub200
+[submodule "dtd"]
+	path = dtd
+	url = ../dtd
+[submodule "quickdraw"]
+	path = quickdraw
+	url = ../quickdraw
+[submodule "fgvcxfungi"]
+	path = fgvcxfungi
+	url = ../fgvcxfungi
+[submodule "flowers102"]
+	path = flowers102
+	url = ../flowers102
+[submodule "gtsrb"]
+	path = gtsrb
+	url = ../gtsrb
+[submodule "coco"]
+	path = coco
+	url = ../coco
