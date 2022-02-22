@@ -2,3 +2,9 @@
 *.jugdata/
 /.tmp/
 /logs/
+/datasrc/*
+!/datasrc/ILSVRC2012_img_train/
+/datasrc/ILSVRC2012_img_train/*
+!/datasrc/ILSVRC2012_img_train/wordnet.is_a.txt
+!/datasrc/ILSVRC2012_img_train/words.txt
+/records/
